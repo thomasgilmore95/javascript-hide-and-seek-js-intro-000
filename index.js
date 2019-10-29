@@ -1,4 +1,4 @@
 getFirstSelector(selector)
 {
-  const main = document.querySelector('index')[0]
+  const main = document.querySelector('main')[0]
 }
