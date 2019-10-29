@@ -12,3 +12,8 @@ deepestChild()
 {
   
 }
+
+increaseRankBy(n)
+{
+  
+}
