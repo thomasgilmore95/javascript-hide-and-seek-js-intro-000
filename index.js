@@ -5,7 +5,7 @@ getFirstSelector(selector)
 
 nestedTarget()
 {
-
+  target.addEventListener('click', )
 }
 
 deepestChild()
