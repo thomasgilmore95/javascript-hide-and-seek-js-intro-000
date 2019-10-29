@@ -1,19 +1,19 @@
-getFirstSelector(selector)
+function getFirstSelector(selector)
 {
-  const main = document.querySelector('main')[0]
+  document.querySelector(selector)
 }
 
-nestedTarget()
+function nestedTarget()
 {
   target.addEventListener('click', nestedTarget())
 }
 
-deepestChild()
+function deepestChild()
 {
 
 }
 
-increaseRankBy(n)
+function increaseRankBy(n)
 {
 
 }
