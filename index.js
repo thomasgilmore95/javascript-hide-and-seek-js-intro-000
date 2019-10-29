@@ -1,4 +1,5 @@
 getFirstSelector(selector)
 {
-  document.querySelector('body')[0]
+  const main = document.querySelector('main')[0]
+  return main
 }
